@@ -1,0 +1,4 @@
+#Sun Aug 04 17:14:42 IST 2019
+base.0=D\:\\tf_android_test\\tensorflow-for-poets-2-master\\android\\tflite\\app\\build\\intermediates\\transforms\\r8\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

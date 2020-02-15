@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d7728fcf6fceb3467c89e6126b246c88\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7a670cc006dc7c20f4e8a4da2ecaaafa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\69f8c8054099b2781412d06e62e78c9c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8ba0ab8b03dc6a163531ca80a02f762\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\788ed4b78c0988105d4fa16bbb3e17cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b5fc8734f1103c20cb6dde5131444e8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\71c176831dab35fe930486e216216f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\79b63229c34e5a68276298e3988097bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\fffab4f8515bb8222354295b9e99f172\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\f2f07bc9f612e7f71e81aca0dee4a11e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0613c9e3e2d8c8ad3725905cfc9d400c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bcb13b14f31a885970dbcab2b5527b49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7c1c1ba8a7c4a8cd1f2018b8d1a0a385\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8881102b5c92aec9a60bf835b689b16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d790201d628a24c61a68c4a060878148\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b0bd39eb78210329117f070251b547ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5f1ed438293c1ea77c2bb7bf6ef3bff1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7acf8d2915190570400a930edfc71c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c47cd43f38f8a81c4c0d537d3ba0327e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6e3933a35fa9f415b5150cb72c0ce442\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\aa616b9b39a1666b869db02dbff3eeb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5e90779047945eecfffa0282571dda3a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6867311bf05a2946210ab8245b25b2f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\727f04d722f45e591086e8779fa54275\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0c9d8d93889900d2dd2fbd897bc6ce0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bd5431e90800e95773276ddcc3153560\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6ace4e219eae7d234c5c5e864977f7fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\137a18bb53619943390a1c49cc332008\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\540ef4e61c7c3c2484884f0001624c85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\1771297d953389df93d1885bf4494423\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\82ee836eda88dbe1d59eb7576e06e6a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\68f1802fbdc37a6c24fc4572d35177df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\48e03b63962bc36901358af80c70cd3b\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\3127df03a1424488320962eb85f6a8a4\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d7728fcf6fceb3467c89e6126b246c88\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d7728fcf6fceb3467c89e6126b246c88\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\69f8c8054099b2781412d06e62e78c9c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\69f8c8054099b2781412d06e62e78c9c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5e90779047945eecfffa0282571dda3a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5e90779047945eecfffa0282571dda3a\AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\3127df03a1424488320962eb85f6a8a4\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\3127df03a1424488320962eb85f6a8a4\AndroidManifest.xml:8:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d7728fcf6fceb3467c89e6126b246c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d7728fcf6fceb3467c89e6126b246c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7a670cc006dc7c20f4e8a4da2ecaaafa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7a670cc006dc7c20f4e8a4da2ecaaafa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\69f8c8054099b2781412d06e62e78c9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\69f8c8054099b2781412d06e62e78c9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8ba0ab8b03dc6a163531ca80a02f762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8ba0ab8b03dc6a163531ca80a02f762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\788ed4b78c0988105d4fa16bbb3e17cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\788ed4b78c0988105d4fa16bbb3e17cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b5fc8734f1103c20cb6dde5131444e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b5fc8734f1103c20cb6dde5131444e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\71c176831dab35fe930486e216216f1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\71c176831dab35fe930486e216216f1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\79b63229c34e5a68276298e3988097bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\79b63229c34e5a68276298e3988097bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\fffab4f8515bb8222354295b9e99f172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\fffab4f8515bb8222354295b9e99f172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\f2f07bc9f612e7f71e81aca0dee4a11e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\f2f07bc9f612e7f71e81aca0dee4a11e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0613c9e3e2d8c8ad3725905cfc9d400c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0613c9e3e2d8c8ad3725905cfc9d400c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bcb13b14f31a885970dbcab2b5527b49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bcb13b14f31a885970dbcab2b5527b49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7c1c1ba8a7c4a8cd1f2018b8d1a0a385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7c1c1ba8a7c4a8cd1f2018b8d1a0a385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8881102b5c92aec9a60bf835b689b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c8881102b5c92aec9a60bf835b689b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d790201d628a24c61a68c4a060878148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\d790201d628a24c61a68c4a060878148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b0bd39eb78210329117f070251b547ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\b0bd39eb78210329117f070251b547ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5f1ed438293c1ea77c2bb7bf6ef3bff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5f1ed438293c1ea77c2bb7bf6ef3bff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7acf8d2915190570400a930edfc71c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\7acf8d2915190570400a930edfc71c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c47cd43f38f8a81c4c0d537d3ba0327e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\c47cd43f38f8a81c4c0d537d3ba0327e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6e3933a35fa9f415b5150cb72c0ce442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6e3933a35fa9f415b5150cb72c0ce442\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\aa616b9b39a1666b869db02dbff3eeb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\aa616b9b39a1666b869db02dbff3eeb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\337fcaec73c2758d2aff235df63d0e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5e90779047945eecfffa0282571dda3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\5e90779047945eecfffa0282571dda3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6867311bf05a2946210ab8245b25b2f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6867311bf05a2946210ab8245b25b2f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\727f04d722f45e591086e8779fa54275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\727f04d722f45e591086e8779fa54275\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0c9d8d93889900d2dd2fbd897bc6ce0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\0c9d8d93889900d2dd2fbd897bc6ce0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bd5431e90800e95773276ddcc3153560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\bd5431e90800e95773276ddcc3153560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6ace4e219eae7d234c5c5e864977f7fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\6ace4e219eae7d234c5c5e864977f7fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\137a18bb53619943390a1c49cc332008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\137a18bb53619943390a1c49cc332008\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\540ef4e61c7c3c2484884f0001624c85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\540ef4e61c7c3c2484884f0001624c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\1771297d953389df93d1885bf4494423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\1771297d953389df93d1885bf4494423\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\82ee836eda88dbe1d59eb7576e06e6a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\82ee836eda88dbe1d59eb7576e06e6a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\68f1802fbdc37a6c24fc4572d35177df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\68f1802fbdc37a6c24fc4572d35177df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\48e03b63962bc36901358af80c70cd3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\48e03b63962bc36901358af80c70cd3b\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\3127df03a1424488320962eb85f6a8a4\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Abhijith P Thenganal\.gradle\caches\transforms-2\files-2.1\3127df03a1424488320962eb85f6a8a4\AndroidManifest.xml:5:5-6:41
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		MERGED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tf_android_test\tensorflow-for-poets-2-master\android\tflite\app\src\main\AndroidManifest.xml
